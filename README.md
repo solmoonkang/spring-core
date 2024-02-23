@@ -34,4 +34,6 @@
 
 <img width="782" alt="회원 객체 다이어그램" src="https://github.com/solmoonkang/spring-core/assets/109902582/8635d311-52a9-4f3e-9b7e-64871e680752">
 
+- 회원 서비스: **MemberServiceImpl**
+
 
