@@ -8,7 +8,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 class ApplicationContextInfoTest {
 
-    AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
+    AnnotationConfigApplicationContext applicationContext =
+            new AnnotationConfigApplicationContext(AppConfig.class);
 
     @Test
     @DisplayName("모든 빈 출력하기")
